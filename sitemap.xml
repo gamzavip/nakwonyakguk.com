@@ -1,1 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- 메인 페이지 (가장 중요도 높음) -->
+  <url>
+    <loc>https://nakwonyakguk.com/</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 
+  <!-- 블로그 메인 페이지 (목록) -->
+  <url>
+    <loc>https://nakwonyakguk.com/blog</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 블로그 상세 게시글 1: 남성 활력 가이드 -->
+  <url>
+    <loc>https://nakwonyakguk.com/blog/male-vitality-guide</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 블로그 상세 게시글 2: 안전한 복용 가이드 -->
+  <url>
+    <loc>https://nakwonyakguk.com/blog/safe-dosage-guide</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 블로그 상세 게시글 3: 일상 습관 -->
+  <url>
+    <loc>https://nakwonyakguk.com/blog/daily-habits</loc>
+    <lastmod>2026-08-21T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
